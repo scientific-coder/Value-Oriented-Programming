@@ -1,0 +1,5 @@
+* Threads should not corrupt each others data
+* Threads should have their own values copied from each other
+* Data structures should be cheap to copy
+* Copy On Write on steroids !
+* Same implementations as Persistent data structures from functional languages
